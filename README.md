@@ -38,3 +38,5 @@ As darknet markets evolve, Nexus Darknet remains a top contender for anyone seek
 
 <a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/files/executable.webp" style="max-width: 100%;"></a>
 <a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/files/show.webp" style="max-width: 100%;"></a>
+
+Update:  04 August Fixed broken link, now working
